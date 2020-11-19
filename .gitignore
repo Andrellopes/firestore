@@ -2,3 +2,4 @@
 .idea
 *.sql
 *.tar.gz
+conf/
